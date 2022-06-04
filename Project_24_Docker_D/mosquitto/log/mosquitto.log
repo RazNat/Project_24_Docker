@@ -1,0 +1,9 @@
+1654278705: mosquitto version 2.0.14 starting
+1654278705: Config loaded from /mosquitto/config/mosquitto.conf.
+1654278705: Opening ipv4 listen socket on port 1883.
+1654278705: Opening ipv6 listen socket on port 1883.
+1654278705: mosquitto version 2.0.14 running
+1654278716: New connection from 172.29.0.1:62026 on port 1883.
+1654278716: New client connected from 172.29.0.1:62026 as auto-77A55C74-B097-EA7E-76EB-FEF71E3678E6 (p2, c1, k60).
+1654291108: Client auto-77A55C74-B097-EA7E-76EB-FEF71E3678E6 closed its connection.
+1654364933: mosquitto version 2.0.14 terminating
